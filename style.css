@@ -29,7 +29,7 @@
 
 .header__title{
     margin: 0;
-    padding: 0;    
+    padding: 0;
     font-size: 102px;
     font-weight: 600;
     display: flex;
@@ -74,7 +74,7 @@
 .header__square-pic{
     display: flex;
     position: absolute;
-    background-color: #2f80ed ;
+    background-color: #2f80ed;
     width: 568px;
     height: 568px;
     top: 64px;
@@ -255,7 +255,7 @@
     z-index: -2;
 }
 
-.section-title{
+.section-title_theme_dark{
     width: 60%;
     margin: 90px auto 20px;
     line-height: 1.15;
@@ -263,7 +263,7 @@
     font-weight: 600;
 }
 
-.section-subtitle{
+.section-subtitle_theme_dark{
     width: 60%;
     margin: 0 auto 0;
     line-height: 34px;
