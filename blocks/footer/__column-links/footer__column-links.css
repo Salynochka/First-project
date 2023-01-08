@@ -1,0 +1,9 @@
+.footer__column-links{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer__column-links:nth-last-of-type(n){
+    margin-bottom: 16px;
+}
