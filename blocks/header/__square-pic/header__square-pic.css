@@ -6,6 +6,4 @@
     height: 568px;
     top: 64px;
     right: 0;
-    transition: transform 20s infinite;
-   animation: rotation 20s infinite linear;
 }
